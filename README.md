@@ -60,6 +60,7 @@ Thank you for visiting
 | [3861-minimum-capacity-box](https://github.com/parthivu1309/DSA/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/parthivu1309/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 | [3866-first-unique-even-element](https://github.com/parthivu1309/DSA/tree/master/3866-first-unique-even-element) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
 |  |
@@ -108,6 +109,7 @@ Thank you for visiting
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Breadth-First Search
 |  |
@@ -172,6 +174,7 @@ Thank you for visiting
 | [1903-largest-odd-number-in-string](https://github.com/parthivu1309/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/parthivu1309/DSA/tree/master/1922-count-good-numbers) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parthivu1309/DSA/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -250,6 +253,7 @@ Thank you for visiting
 | [0876-middle-of-the-linked-list](https://github.com/parthivu1309/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/parthivu1309/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/parthivu1309/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -385,8 +389,13 @@ Thank you for visiting
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/parthivu1309/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/parthivu1309/DSA/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
 | [3827-count-monobit-integers](https://github.com/parthivu1309/DSA/tree/master/3827-count-monobit-integers) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
