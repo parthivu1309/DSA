@@ -19,6 +19,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthivu1309/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/parthivu1309/DSA/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/parthivu1309/DSA/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -49,6 +50,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parthivu1309/DSA/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/parthivu1309/DSA/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -81,4 +83,8 @@ Thank you for visiting
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parthivu1309/DSA/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/parthivu1309/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
