@@ -328,6 +328,7 @@ Thank you for visiting
 | ------- |
 | [0136-single-number](https://github.com/parthivu1309/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
+| [3827-count-monobit-integers](https://github.com/parthivu1309/DSA/tree/master/3827-count-monobit-integers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -371,4 +372,8 @@ Thank you for visiting
 | [2149-rearrange-array-elements-by-sign](https://github.com/parthivu1309/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/parthivu1309/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/parthivu1309/DSA/tree/master/3701-compute-alternating-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3827-count-monobit-integers](https://github.com/parthivu1309/DSA/tree/master/3827-count-monobit-integers) |
 <!---LeetCode Topics End-->
