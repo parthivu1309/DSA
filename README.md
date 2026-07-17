@@ -62,6 +62,7 @@ Thank you for visiting
 | [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/parthivu1309/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/parthivu1309/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/parthivu1309/DSA/tree/master/0242-valid-anagram) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Breadth-First Search
@@ -85,6 +86,7 @@ Thank you for visiting
 | [0160-intersection-of-two-linked-lists](https://github.com/parthivu1309/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/parthivu1309/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/parthivu1309/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/parthivu1309/DSA/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Thank you for visiting
 | [0014-longest-common-prefix](https://github.com/parthivu1309/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/parthivu1309/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/parthivu1309/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/parthivu1309/DSA/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
