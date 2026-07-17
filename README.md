@@ -40,6 +40,7 @@ Thank you for visiting
 | [0540-single-element-in-a-sorted-array](https://github.com/parthivu1309/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthivu1309/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/parthivu1309/DSA/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/parthivu1309/DSA/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@ Thank you for visiting
 | [0435-non-overlapping-intervals](https://github.com/parthivu1309/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/parthivu1309/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/parthivu1309/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0860-lemonade-change](https://github.com/parthivu1309/DSA/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
