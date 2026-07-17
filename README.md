@@ -137,6 +137,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Thank you for visiting
 | [0104-maximum-depth-of-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthivu1309/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Thank you for visiting
 | [0104-maximum-depth-of-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthivu1309/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -168,6 +171,7 @@ Thank you for visiting
 | [0104-maximum-depth-of-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthivu1309/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Union-Find
 |  |
 | ------- |
