@@ -177,6 +177,7 @@ Thank you for visiting
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/parthivu1309/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/parthivu1309/DSA/tree/master/3871-count-commas-in-range-ii) |
+| [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 ## Recursion
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Thank you for visiting
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parthivu1309/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthivu1309/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/parthivu1309/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 ## Sliding Window
 |  |
 | ------- |
@@ -392,6 +394,7 @@ Thank you for visiting
 | [3701-compute-alternating-sum](https://github.com/parthivu1309/DSA/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 ## Enumeration
 |  |
 | ------- |
