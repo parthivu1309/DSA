@@ -95,6 +95,7 @@ Thank you for visiting
 | [0005-longest-palindromic-substring](https://github.com/parthivu1309/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/parthivu1309/DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/parthivu1309/DSA/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/parthivu1309/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Thank you for visiting
 | [0141-linked-list-cycle](https://github.com/parthivu1309/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthivu1309/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/parthivu1309/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
 | ------- |
