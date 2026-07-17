@@ -22,6 +22,7 @@ Thank you for visiting
 | [0134-gas-station](https://github.com/parthivu1309/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/parthivu1309/DSA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/parthivu1309/DSA/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthivu1309/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -106,6 +107,7 @@ Thank you for visiting
 | [0004-median-of-two-sorted-arrays](https://github.com/parthivu1309/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/parthivu1309/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parthivu1309/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthivu1309/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
