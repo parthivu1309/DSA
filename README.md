@@ -44,6 +44,7 @@ Thank you for visiting
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/parthivu1309/DSA/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
@@ -118,12 +119,15 @@ Thank you for visiting
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/parthivu1309/DSA/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/parthivu1309/DSA/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/parthivu1309/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
