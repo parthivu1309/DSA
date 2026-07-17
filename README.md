@@ -68,12 +68,14 @@ Thank you for visiting
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthivu1309/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/parthivu1309/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/parthivu1309/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/parthivu1309/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parthivu1309/DSA/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/parthivu1309/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/parthivu1309/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/parthivu1309/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Thank you for visiting
 | [0061-rotate-list](https://github.com/parthivu1309/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/parthivu1309/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/parthivu1309/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/parthivu1309/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Trie
 |  |
 | ------- |
