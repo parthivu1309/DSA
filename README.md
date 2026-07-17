@@ -29,6 +29,7 @@ Thank you for visiting
 | [0189-rotate-array](https://github.com/parthivu1309/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/parthivu1309/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parthivu1309/DSA/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -63,6 +64,7 @@ Thank you for visiting
 | [0164-maximum-gap](https://github.com/parthivu1309/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/parthivu1309/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/parthivu1309/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Breadth-First Search
@@ -87,6 +89,7 @@ Thank you for visiting
 | [0169-majority-element](https://github.com/parthivu1309/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/parthivu1309/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/parthivu1309/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -106,6 +109,7 @@ Thank you for visiting
 | [0062-unique-paths](https://github.com/parthivu1309/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parthivu1309/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/parthivu1309/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +138,7 @@ Thank you for visiting
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parthivu1309/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthivu1309/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parthivu1309/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -229,6 +234,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0136-single-number](https://github.com/parthivu1309/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
