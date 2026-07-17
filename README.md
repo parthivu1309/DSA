@@ -71,6 +71,7 @@ Thank you for visiting
 | [0128-longest-consecutive-sequence](https://github.com/parthivu1309/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/parthivu1309/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthivu1309/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parthivu1309/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Thank you for visiting
 | [0141-linked-list-cycle](https://github.com/parthivu1309/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthivu1309/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parthivu1309/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ Thank you for visiting
 | [0142-linked-list-cycle-ii](https://github.com/parthivu1309/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/parthivu1309/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parthivu1309/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Trie
 |  |
 | ------- |
