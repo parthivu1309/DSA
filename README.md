@@ -73,6 +73,7 @@ Thank you for visiting
 | [0242-valid-anagram](https://github.com/parthivu1309/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/parthivu1309/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Breadth-First Search
@@ -99,6 +100,7 @@ Thank you for visiting
 | [0242-valid-anagram](https://github.com/parthivu1309/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthivu1309/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Thank you for visiting
 | [0205-isomorphic-strings](https://github.com/parthivu1309/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/parthivu1309/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthivu1309/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -257,6 +260,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/parthivu1309/DSA/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Radix Sort
 |  |
 | ------- |
@@ -265,8 +269,13 @@ Thank you for visiting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parthivu1309/DSA/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/parthivu1309/DSA/tree/master/0410-split-array-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
