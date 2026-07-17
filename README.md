@@ -64,6 +64,7 @@ Thank you for visiting
 | [3895-count-digit-appearances](https://github.com/parthivu1309/DSA/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/parthivu1309/DSA/tree/master/3899-angles-of-a-triangle) |
 | [3923-minimum-generations-to-target-point](https://github.com/parthivu1309/DSA/tree/master/3923-minimum-generations-to-target-point) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/parthivu1309/DSA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
 |  |
@@ -113,6 +114,7 @@ Thank you for visiting
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/parthivu1309/DSA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Breadth-First Search
 |  |
