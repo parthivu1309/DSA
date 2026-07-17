@@ -20,6 +20,7 @@ Thank you for visiting
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthivu1309/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/parthivu1309/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/parthivu1309/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/parthivu1309/DSA/tree/master/0135-candy) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -42,6 +43,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/parthivu1309/DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/parthivu1309/DSA/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
