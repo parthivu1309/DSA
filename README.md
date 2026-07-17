@@ -15,6 +15,7 @@ Thank you for visiting
 | [0074-search-a-2d-matrix](https://github.com/parthivu1309/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/parthivu1309/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parthivu1309/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/parthivu1309/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/parthivu1309/DSA/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -28,6 +29,7 @@ Thank you for visiting
 | [0063-unique-paths-ii](https://github.com/parthivu1309/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parthivu1309/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/parthivu1309/DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/parthivu1309/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/parthivu1309/DSA/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
