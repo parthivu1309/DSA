@@ -138,6 +138,7 @@ Thank you for visiting
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Thank you for visiting
 | [0110-balanced-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthivu1309/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Thank you for visiting
 | [0110-balanced-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthivu1309/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -172,6 +175,7 @@ Thank you for visiting
 | [0110-balanced-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/parthivu1309/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Union-Find
 |  |
 | ------- |
