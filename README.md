@@ -63,6 +63,7 @@ Thank you for visiting
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/parthivu1309/DSA/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/parthivu1309/DSA/tree/master/3899-angles-of-a-triangle) |
+| [3923-minimum-generations-to-target-point](https://github.com/parthivu1309/DSA/tree/master/3923-minimum-generations-to-target-point) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
 |  |
@@ -148,6 +149,7 @@ Thank you for visiting
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/parthivu1309/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/parthivu1309/DSA/tree/master/3866-first-unique-even-element) |
+| [3923-minimum-generations-to-target-point](https://github.com/parthivu1309/DSA/tree/master/3923-minimum-generations-to-target-point) |
 ## Linked List
 |  |
 | ------- |
@@ -400,6 +402,7 @@ Thank you for visiting
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
+| [3923-minimum-generations-to-target-point](https://github.com/parthivu1309/DSA/tree/master/3923-minimum-generations-to-target-point) |
 ## Enumeration
 |  |
 | ------- |
