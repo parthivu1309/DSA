@@ -13,6 +13,7 @@ Thank you for visiting
 | [0063-unique-paths-ii](https://github.com/parthivu1309/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parthivu1309/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/parthivu1309/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/parthivu1309/DSA/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/parthivu1309/DSA/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -36,6 +37,7 @@ Thank you for visiting
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/parthivu1309/DSA/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Breadth-First Search
@@ -87,6 +89,7 @@ Thank you for visiting
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthivu1309/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/parthivu1309/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/parthivu1309/DSA/tree/master/0075-sort-colors) |
 ## Trie
 |  |
 | ------- |
