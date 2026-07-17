@@ -176,6 +176,7 @@ Thank you for visiting
 | [0796-rotate-string](https://github.com/parthivu1309/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/parthivu1309/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parthivu1309/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthivu1309/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +254,7 @@ Thank you for visiting
 | [0234-palindrome-linked-list](https://github.com/parthivu1309/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/parthivu1309/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/parthivu1309/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthivu1309/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
