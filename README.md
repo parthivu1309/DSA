@@ -44,6 +44,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parthivu1309/DSA/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/parthivu1309/DSA/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthivu1309/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0061-rotate-list](https://github.com/parthivu1309/DSA/tree/master/0061-rotate-list) |
 ## Trie
 |  |
 | ------- |
