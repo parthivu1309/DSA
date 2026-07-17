@@ -24,6 +24,7 @@ Thank you for visiting
 | [0136-single-number](https://github.com/parthivu1309/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthivu1309/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parthivu1309/DSA/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/parthivu1309/DSA/tree/master/0164-maximum-gap) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -53,6 +54,7 @@ Thank you for visiting
 | ------- |
 | [0075-sort-colors](https://github.com/parthivu1309/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/parthivu1309/DSA/tree/master/0164-maximum-gap) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Breadth-First Search
@@ -201,4 +203,12 @@ Thank you for visiting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/parthivu1309/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/parthivu1309/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
