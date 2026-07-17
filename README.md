@@ -26,6 +26,7 @@ Thank you for visiting
 | [0162-find-peak-element](https://github.com/parthivu1309/DSA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/parthivu1309/DSA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/parthivu1309/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/parthivu1309/DSA/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -93,6 +94,7 @@ Thank you for visiting
 | [0002-add-two-numbers](https://github.com/parthivu1309/DSA/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/parthivu1309/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/parthivu1309/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/parthivu1309/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Thank you for visiting
 | [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/parthivu1309/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parthivu1309/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/parthivu1309/DSA/tree/master/0189-rotate-array) |
 ## Trie
 |  |
 | ------- |
