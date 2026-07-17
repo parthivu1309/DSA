@@ -32,6 +32,7 @@ Thank you for visiting
 | [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/parthivu1309/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/parthivu1309/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
@@ -50,12 +51,14 @@ Thank you for visiting
 | [0198-house-robber](https://github.com/parthivu1309/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/parthivu1309/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/parthivu1309/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/parthivu1309/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/parthivu1309/DSA/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/parthivu1309/DSA/tree/master/0410-split-array-largest-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -141,6 +144,7 @@ Thank you for visiting
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthivu1309/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parthivu1309/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/parthivu1309/DSA/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -254,4 +258,8 @@ Thank you for visiting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parthivu1309/DSA/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/parthivu1309/DSA/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
