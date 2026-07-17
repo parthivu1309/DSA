@@ -62,6 +62,7 @@ Thank you for visiting
 | [3866-first-unique-even-element](https://github.com/parthivu1309/DSA/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/parthivu1309/DSA/tree/master/3895-count-digit-appearances) |
+| [3899-angles-of-a-triangle](https://github.com/parthivu1309/DSA/tree/master/3899-angles-of-a-triangle) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
 |  |
@@ -180,6 +181,7 @@ Thank you for visiting
 | [3871-count-commas-in-range-ii](https://github.com/parthivu1309/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/parthivu1309/DSA/tree/master/3895-count-digit-appearances) |
+| [3899-angles-of-a-triangle](https://github.com/parthivu1309/DSA/tree/master/3899-angles-of-a-triangle) |
 ## Recursion
 |  |
 | ------- |
@@ -405,4 +407,8 @@ Thank you for visiting
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Geometry
+|  |
+| ------- |
+| [3899-angles-of-a-triangle](https://github.com/parthivu1309/DSA/tree/master/3899-angles-of-a-triangle) |
 <!---LeetCode Topics End-->
