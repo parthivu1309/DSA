@@ -157,6 +157,7 @@ Thank you for visiting
 | [0509-fibonacci-number](https://github.com/parthivu1309/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parthivu1309/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/parthivu1309/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/parthivu1309/DSA/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Thank you for visiting
 | [0206-reverse-linked-list](https://github.com/parthivu1309/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parthivu1309/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/parthivu1309/DSA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/parthivu1309/DSA/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
