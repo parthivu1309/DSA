@@ -10,6 +10,7 @@ Thank you for visiting
 | [0001-two-sum](https://github.com/parthivu1309/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/parthivu1309/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/parthivu1309/DSA/tree/master/0014-longest-common-prefix) |
+| [0063-unique-paths-ii](https://github.com/parthivu1309/DSA/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/parthivu1309/DSA/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -20,6 +21,7 @@ Thank you for visiting
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthivu1309/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/parthivu1309/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/parthivu1309/DSA/tree/master/0063-unique-paths-ii) |
 | [0120-triangle](https://github.com/parthivu1309/DSA/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -87,4 +89,8 @@ Thank you for visiting
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/parthivu1309/DSA/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/parthivu1309/DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
