@@ -50,6 +50,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/parthivu1309/DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Breadth-First Search
@@ -76,6 +77,7 @@ Thank you for visiting
 | [0061-rotate-list](https://github.com/parthivu1309/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/parthivu1309/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthivu1309/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parthivu1309/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +118,7 @@ Thank you for visiting
 | [0075-sort-colors](https://github.com/parthivu1309/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/parthivu1309/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parthivu1309/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
 ## Trie
 |  |
 | ------- |
@@ -184,4 +188,8 @@ Thank you for visiting
 |  |
 | ------- |
 | [0136-single-number](https://github.com/parthivu1309/DSA/tree/master/0136-single-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/parthivu1309/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
