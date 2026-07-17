@@ -154,6 +154,7 @@ Thank you for visiting
 | [0424-longest-repeating-character-replacement](https://github.com/parthivu1309/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/parthivu1309/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/parthivu1309/DSA/tree/master/0796-rotate-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -301,4 +302,8 @@ Thank you for visiting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/parthivu1309/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
