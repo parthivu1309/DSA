@@ -61,6 +61,7 @@ Thank you for visiting
 | [3862-find-the-smallest-balanced-index](https://github.com/parthivu1309/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 | [3866-first-unique-even-element](https://github.com/parthivu1309/DSA/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3895-count-digit-appearances](https://github.com/parthivu1309/DSA/tree/master/3895-count-digit-appearances) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
 |  |
@@ -178,6 +179,7 @@ Thank you for visiting
 | [3870-count-commas-in-range](https://github.com/parthivu1309/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/parthivu1309/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
+| [3895-count-digit-appearances](https://github.com/parthivu1309/DSA/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
 | ------- |
