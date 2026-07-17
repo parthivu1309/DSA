@@ -35,6 +35,7 @@ Thank you for visiting
 | [0410-split-array-largest-sum](https://github.com/parthivu1309/DSA/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/parthivu1309/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/parthivu1309/DSA/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ Thank you for visiting
 | [0135-candy](https://github.com/parthivu1309/DSA/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/parthivu1309/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/parthivu1309/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/parthivu1309/DSA/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
@@ -74,6 +76,7 @@ Thank you for visiting
 | [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/parthivu1309/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/parthivu1309/DSA/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Breadth-First Search
@@ -175,6 +178,7 @@ Thank you for visiting
 | [0189-rotate-array](https://github.com/parthivu1309/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/parthivu1309/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/parthivu1309/DSA/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/parthivu1309/DSA/tree/master/0455-assign-cookies) |
 ## Trie
 |  |
 | ------- |
