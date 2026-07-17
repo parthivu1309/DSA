@@ -46,6 +46,7 @@ Thank you for visiting
 | [0992-subarrays-with-k-different-integers](https://github.com/parthivu1309/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthivu1309/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parthivu1309/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parthivu1309/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
@@ -194,6 +195,7 @@ Thank you for visiting
 | [0704-binary-search](https://github.com/parthivu1309/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/parthivu1309/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthivu1309/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parthivu1309/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
