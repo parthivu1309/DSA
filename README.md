@@ -17,6 +17,7 @@ Thank you for visiting
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parthivu1309/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/parthivu1309/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/parthivu1309/DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/parthivu1309/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -31,6 +32,7 @@ Thank you for visiting
 | [0070-climbing-stairs](https://github.com/parthivu1309/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/parthivu1309/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/parthivu1309/DSA/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/parthivu1309/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/parthivu1309/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Greedy
