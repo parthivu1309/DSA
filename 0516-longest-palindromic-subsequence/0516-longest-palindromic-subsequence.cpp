@@ -1,23 +1,26 @@
 class Solution {
 public:
-    int helper(int ind1, int ind2, string& s, vector<vector<int>>& dp){
-        if(ind1 == ind2)return 1;//this might be doughtful
-        if(ind1 > ind2)return 0;
-        
-        if(ind1 < 0 || ind2 < 0  || ind1 > s.size() - 1 || ind2 > s.size() - 1)return 0;
-
-        if(dp[ind1][ind2] != -1)return dp[ind1][ind2];
-
-        if(s[ind1] == s[ind2])
-           return dp[ind1][ind2] = 2 + helper(ind1 + 1, ind2 - 1, s, dp);
-        
-        return dp[ind1][ind2] = max(helper(ind1+1, ind2, s, dp), helper(ind1, ind2-1, s, dp));
-    }
     int longestPalindromeSubseq(string s) {
-        int ind1 = 0;
-        int ind2 = s.size();
-        vector<vector<int>>dp(ind2, vector<int>(ind2, -1));
+        int n = s.size();
+        // n x n table initialized to 0. 
+        // 0 handles our "out of bounds / i > j" base cases automatically!
+        vector<vector<int>> dp(n, vector<int>(n, 0));
 
-        return helper(ind1, ind2 - 1, s, dp);
+        // i goes backwards because dp[i] depends on dp[i+1]
+        for (int i = n - 1; i >= 0; i--) {
+            dp[i][i] = 1; // Base case: every single character is a palindrome of length 1
+            
+            // j goes forwards, starting right after i
+            for (int j = i + 1; j < n; j++) {
+                if (s[i] == s[j]) {
+                    dp[i][j] = 2 + dp[i+1][j-1];
+                } else {
+                    dp[i][j] = max(dp[i+1][j], dp[i][j-1]);
+                }
+            }
+        }
+        
+        // The answer for the whole string from index 0 to n-1
+        return dp[0][n-1]; 
     }
 };
