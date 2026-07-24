@@ -91,6 +91,7 @@ Thank you for visiting
 | [0516-longest-palindromic-subsequence](https://github.com/parthivu1309/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/parthivu1309/DSA/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/parthivu1309/DSA/tree/master/0678-valid-parenthesis-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthivu1309/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -215,6 +216,7 @@ Thank you for visiting
 | [0678-valid-parenthesis-string](https://github.com/parthivu1309/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/parthivu1309/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/parthivu1309/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthivu1309/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parthivu1309/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/parthivu1309/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/parthivu1309/DSA/tree/master/1903-largest-odd-number-in-string) |
