@@ -1,39 +1,21 @@
 class Solution {
 public:
+    int helper(vector<vector<int>>& triangle, int i, int j, vector<vector<int>>& dp) {
+        int n = triangle.size();
+        
+        if (i == n - 1) return triangle[i][j];
+
+        // Check against INT_MAX instead of -1
+        if (dp[i][j] != INT_MAX) return dp[i][j];
+
+        return dp[i][j] = triangle[i][j] + min(helper(triangle, i + 1, j, dp), 
+                                               helper(triangle, i + 1, j + 1, dp));
+    }
+    
     int minimumTotal(vector<vector<int>>& triangle) {
-        int m = triangle.size();
-        int n = triangle[m - 1].size();
-
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-
-        vector<int>prev(n,-1);
-
-        for(int i = 0; i < m; i++){
-            vector<int>temp(n,-1);
-            for(int j = 0; j <= i; j++){
-                if(i == 0 && j == 0){
-                    temp[j] = triangle[i][j];
-                    continue;
-                }
-                int l = INT_MAX;
-                int r = INT_MAX;
-
-                if(i > j)
-                l = prev[j];
-
-                if(j > 0 && i > 0)
-                r = prev[j-1];
-
-                temp[j] = triangle[i][j] + min(l,r);
-            }
-            prev = temp;
-        }
-
-        int minPath = INT_MAX;
-        for(int i = 0; i < m; i++){
-            minPath = min(minPath, prev[i]);
-        }
-
-        return minPath;
+        int n = triangle.size();
+        // Initialize with INT_MAX instead of -1
+        vector<vector<int>> dp(n, vector<int>(n, INT_MAX));
+        return helper(triangle, 0, 0, dp);
     }
 };
