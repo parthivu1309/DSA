@@ -196,6 +196,7 @@ Thank you for visiting
 | [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/parthivu1309/DSA/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/parthivu1309/DSA/tree/master/3899-angles-of-a-triangle) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/parthivu1309/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Recursion
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Thank you for visiting
 | [1927-sum-game](https://github.com/parthivu1309/DSA/tree/master/1927-sum-game) |
 | [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/parthivu1309/DSA/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/parthivu1309/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Sliding Window
 |  |
 | ------- |
