@@ -230,6 +230,7 @@ Thank you for visiting
 | [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/parthivu1309/DSA/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/parthivu1309/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
+| [4006-count-valid-prefixes](https://github.com/parthivu1309/DSA/tree/master/4006-count-valid-prefixes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -393,6 +394,7 @@ Thank you for visiting
 | [0992-subarrays-with-k-different-integers](https://github.com/parthivu1309/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [3843-first-element-with-unique-frequency](https://github.com/parthivu1309/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/parthivu1309/DSA/tree/master/3866-first-unique-even-element) |
+| [4006-count-valid-prefixes](https://github.com/parthivu1309/DSA/tree/master/4006-count-valid-prefixes) |
 ## Prefix Sum
 |  |
 | ------- |
