@@ -188,6 +188,7 @@ Thank you for visiting
 | [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/parthivu1309/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parthivu1309/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/parthivu1309/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/parthivu1309/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/parthivu1309/DSA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/parthivu1309/DSA/tree/master/1927-sum-game) |
@@ -439,6 +440,7 @@ Thank you for visiting
 ## Geometry
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/parthivu1309/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3899-angles-of-a-triangle](https://github.com/parthivu1309/DSA/tree/master/3899-angles-of-a-triangle) |
 ## Backtracking
 |  |
