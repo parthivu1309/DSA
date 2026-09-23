@@ -51,6 +51,7 @@ Thank you for visiting
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parthivu1309/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parthivu1309/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/parthivu1309/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthivu1309/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/parthivu1309/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/parthivu1309/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -161,6 +162,7 @@ Thank you for visiting
 | [1248-count-number-of-nice-subarrays](https://github.com/parthivu1309/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parthivu1309/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthivu1309/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthivu1309/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/parthivu1309/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/parthivu1309/DSA/tree/master/3866-first-unique-even-element) |
@@ -250,6 +252,7 @@ Thank you for visiting
 | [1248-count-number-of-nice-subarrays](https://github.com/parthivu1309/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/parthivu1309/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parthivu1309/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthivu1309/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,6 +269,7 @@ Thank you for visiting
 | [1004-max-consecutive-ones-iii](https://github.com/parthivu1309/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/parthivu1309/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/parthivu1309/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthivu1309/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -412,6 +416,7 @@ Thank you for visiting
 | [1004-max-consecutive-ones-iii](https://github.com/parthivu1309/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parthivu1309/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parthivu1309/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthivu1309/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/parthivu1309/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3862-find-the-smallest-balanced-index](https://github.com/parthivu1309/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 ## Heap (Priority Queue)
