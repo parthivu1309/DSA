@@ -1,37 +1,28 @@
 class Solution {
 public:
+    string& reverse(string& s, int start, int end){
+        while(start <= end){
+            swap(s[start++], s[end--]);
+        }
+        return s;
+    }
     string reverseParentheses(string s) {
-        int n = s.size();
-
         stack<int>st;
-        vector<int>door(n);//door[i] = j means we goes from i to j
+        string ans = "";
 
-        for(int i = 0 ; i < n; i++){
-            if(s[i] == '('){
-                st.push(i);
+        for(int i = 0; i < s.size(); i++){
+            if(s[i] == '(') {
+                st.push(ans.size());
             }
             else if(s[i] == ')'){
-                int j = st.top();
+                int start = st.top();
                 st.pop();
-
-                door[i] = j;
-                door[j] = i;
-            }
-        }
-
-        string ans = "";
-        int flag = 1;//+1 for LTR, -1 for RLT
-
-        for(int i = 0; i < n; i += flag){
-            if(s[i] == '(' || s[i] == ')'){
-                i = door[i];
-                flag = -flag;
+                reverse(ans, start, ans.size() - 1);
             }
             else{
-                ans.push_back(s[i]);
+                ans += s[i];
             }
         }
-
         return ans;
     }
 };
