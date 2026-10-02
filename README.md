@@ -76,6 +76,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/parthivu1309/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/parthivu1309/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/parthivu1309/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/parthivu1309/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/parthivu1309/DSA/tree/master/0064-minimum-path-sum) |
@@ -229,6 +230,7 @@ Thank you for visiting
 | [0006-zigzag-conversion](https://github.com/parthivu1309/DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/parthivu1309/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/parthivu1309/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/parthivu1309/DSA/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/parthivu1309/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/parthivu1309/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/parthivu1309/DSA/tree/master/0242-valid-anagram) |
@@ -470,6 +472,7 @@ Thank you for visiting
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/parthivu1309/DSA/tree/master/0022-generate-parentheses) |
 | [0494-target-sum](https://github.com/parthivu1309/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/parthivu1309/DSA/tree/master/1096-brace-expansion-ii) |
 ## Game Theory
@@ -480,6 +483,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/parthivu1309/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/parthivu1309/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parthivu1309/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parthivu1309/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parthivu1309/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
