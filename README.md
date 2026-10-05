@@ -240,6 +240,7 @@ Thank you for visiting
 | [0583-delete-operation-for-two-strings](https://github.com/parthivu1309/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/parthivu1309/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/parthivu1309/DSA/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/parthivu1309/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/parthivu1309/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/parthivu1309/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parthivu1309/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -339,6 +340,7 @@ Thank you for visiting
 | [0145-binary-tree-postorder-traversal](https://github.com/parthivu1309/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/parthivu1309/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/parthivu1309/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/parthivu1309/DSA/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/parthivu1309/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/parthivu1309/DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parthivu1309/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -485,6 +487,7 @@ Thank you for visiting
 | [0020-valid-parentheses](https://github.com/parthivu1309/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/parthivu1309/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/parthivu1309/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/parthivu1309/DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/parthivu1309/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/parthivu1309/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parthivu1309/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
