@@ -144,6 +144,7 @@ Thank you for visiting
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/parthivu1309/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/parthivu1309/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/parthivu1309/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/parthivu1309/DSA/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/parthivu1309/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/parthivu1309/DSA/tree/master/1096-brace-expansion-ii) |
@@ -235,6 +236,7 @@ Thank you for visiting
 | [0151-reverse-words-in-a-string](https://github.com/parthivu1309/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/parthivu1309/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/parthivu1309/DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/parthivu1309/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthivu1309/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/parthivu1309/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -478,6 +480,7 @@ Thank you for visiting
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/parthivu1309/DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/parthivu1309/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/parthivu1309/DSA/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/parthivu1309/DSA/tree/master/1096-brace-expansion-ii) |
 ## Game Theory
