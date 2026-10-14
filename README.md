@@ -122,6 +122,7 @@ Thank you for visiting
 | [1927-sum-game](https://github.com/parthivu1309/DSA/tree/master/1927-sum-game) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parthivu1309/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parthivu1309/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/parthivu1309/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthivu1309/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -219,6 +220,7 @@ Thank you for visiting
 | [1927-sum-game](https://github.com/parthivu1309/DSA/tree/master/1927-sum-game) |
 | [3524-find-x-value-of-array-i](https://github.com/parthivu1309/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parthivu1309/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/parthivu1309/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parthivu1309/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/parthivu1309/DSA/tree/master/3870-count-commas-in-range) |
