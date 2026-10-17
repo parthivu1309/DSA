@@ -64,6 +64,7 @@ Thank you for visiting
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthivu1309/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/parthivu1309/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/parthivu1309/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/parthivu1309/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/parthivu1309/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/parthivu1309/DSA/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthivu1309/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -143,6 +144,7 @@ Thank you for visiting
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/parthivu1309/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/parthivu1309/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parthivu1309/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/parthivu1309/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthivu1309/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -189,6 +191,7 @@ Thank you for visiting
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parthivu1309/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/parthivu1309/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/parthivu1309/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/parthivu1309/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/parthivu1309/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/parthivu1309/DSA/tree/master/3866-first-unique-even-element) |
