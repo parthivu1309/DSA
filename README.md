@@ -76,6 +76,7 @@ Thank you for visiting
 | [3862-find-the-smallest-balanced-index](https://github.com/parthivu1309/DSA/tree/master/3862-find-the-smallest-balanced-index) |
 | [3866-first-unique-even-element](https://github.com/parthivu1309/DSA/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/parthivu1309/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/parthivu1309/DSA/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/parthivu1309/DSA/tree/master/3899-angles-of-a-triangle) |
 | [3923-minimum-generations-to-target-point](https://github.com/parthivu1309/DSA/tree/master/3923-minimum-generations-to-target-point) |
@@ -152,6 +153,7 @@ Thank you for visiting
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthivu1309/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/parthivu1309/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/parthivu1309/DSA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Breadth-First Search
@@ -237,6 +239,7 @@ Thank you for visiting
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/parthivu1309/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/parthivu1309/DSA/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/parthivu1309/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/parthivu1309/DSA/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/parthivu1309/DSA/tree/master/3899-angles-of-a-triangle) |
@@ -505,6 +508,7 @@ Thank you for visiting
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/parthivu1309/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3827-count-monobit-integers](https://github.com/parthivu1309/DSA/tree/master/3827-count-monobit-integers) |
+| [3886-sum-of-sortable-integers](https://github.com/parthivu1309/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
