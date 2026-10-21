@@ -285,6 +285,7 @@ Thank you for visiting
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthivu1309/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/parthivu1309/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/parthivu1309/DSA/tree/master/1927-sum-game) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/parthivu1309/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/parthivu1309/DSA/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/parthivu1309/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
