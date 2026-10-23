@@ -67,6 +67,7 @@ Thank you for visiting
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/parthivu1309/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/parthivu1309/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/parthivu1309/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/parthivu1309/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/parthivu1309/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/parthivu1309/DSA/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthivu1309/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -449,6 +450,7 @@ Thank you for visiting
 | [0136-single-number](https://github.com/parthivu1309/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/parthivu1309/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/parthivu1309/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3827-count-monobit-integers](https://github.com/parthivu1309/DSA/tree/master/3827-count-monobit-integers) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/parthivu1309/DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Merge Sort
