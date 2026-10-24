@@ -233,6 +233,7 @@ Thank you for visiting
 | [1903-largest-odd-number-in-string](https://github.com/parthivu1309/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/parthivu1309/DSA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/parthivu1309/DSA/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/parthivu1309/DSA/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/parthivu1309/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parthivu1309/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/parthivu1309/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -286,6 +287,7 @@ Thank you for visiting
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthivu1309/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/parthivu1309/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/parthivu1309/DSA/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/parthivu1309/DSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/parthivu1309/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/parthivu1309/DSA/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
