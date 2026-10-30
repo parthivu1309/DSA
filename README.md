@@ -297,6 +297,7 @@ Thank you for visiting
 | [3863-minimum-operations-to-sort-a-string](https://github.com/parthivu1309/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3894-traffic-signal-color](https://github.com/parthivu1309/DSA/tree/master/3894-traffic-signal-color) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/parthivu1309/DSA/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/parthivu1309/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/parthivu1309/DSA/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 | [4006-count-valid-prefixes](https://github.com/parthivu1309/DSA/tree/master/4006-count-valid-prefixes) |
 ## Sliding Window
@@ -509,6 +510,7 @@ Thank you for visiting
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/parthivu1309/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parthivu1309/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/parthivu1309/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -581,4 +583,12 @@ Thank you for visiting
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthivu1309/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/parthivu1309/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/parthivu1309/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
