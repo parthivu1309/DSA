@@ -70,6 +70,7 @@ Thank you for visiting
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parthivu1309/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/parthivu1309/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/parthivu1309/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3665-twisted-mirror-path-count](https://github.com/parthivu1309/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3701-compute-alternating-sum](https://github.com/parthivu1309/DSA/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthivu1309/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/parthivu1309/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -115,6 +116,7 @@ Thank you for visiting
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthivu1309/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parthivu1309/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/parthivu1309/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/parthivu1309/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/parthivu1309/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
@@ -376,6 +378,7 @@ Thank you for visiting
 | [0074-search-a-2d-matrix](https://github.com/parthivu1309/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/parthivu1309/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/parthivu1309/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/parthivu1309/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/parthivu1309/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
