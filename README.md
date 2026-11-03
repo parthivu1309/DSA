@@ -74,6 +74,7 @@ Thank you for visiting
 | [3665-twisted-mirror-path-count](https://github.com/parthivu1309/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3701-compute-alternating-sum](https://github.com/parthivu1309/DSA/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/parthivu1309/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/parthivu1309/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/parthivu1309/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/parthivu1309/DSA/tree/master/3843-first-element-with-unique-frequency) |
@@ -247,6 +248,7 @@ Thank you for visiting
 | [3524-find-x-value-of-array-i](https://github.com/parthivu1309/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parthivu1309/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/parthivu1309/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/parthivu1309/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/parthivu1309/DSA/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/parthivu1309/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/parthivu1309/DSA/tree/master/3870-count-commas-in-range) |
