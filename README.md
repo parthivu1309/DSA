@@ -318,6 +318,7 @@ Thank you for visiting
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/parthivu1309/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/parthivu1309/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/parthivu1309/DSA/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/parthivu1309/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/parthivu1309/DSA/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/parthivu1309/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/parthivu1309/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -561,6 +562,7 @@ Thank you for visiting
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/parthivu1309/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/parthivu1309/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/parthivu1309/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/parthivu1309/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/parthivu1309/DSA/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
