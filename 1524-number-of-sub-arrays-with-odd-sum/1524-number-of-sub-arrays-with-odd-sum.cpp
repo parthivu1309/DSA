@@ -1,42 +1,31 @@
-
 class Solution {
 public:
-    const int MOD = 1e9 + 7;
-    vector<vector<long long>> dp;
-
-    long long solve(int i, vector<int>& arr, int parity) {
-        if (i < 0) return 0;
-
-        if (dp[i][parity] != -1)
-            return dp[i][parity];
-
-        long long odd, even;
-
-        odd = solve(i - 1, arr, 1);
-        even = solve(i - 1, arr, 0);
-
-        if (arr[i] % 2 != 0) {
-            odd = even + 1;
-            even = solve(i - 1, arr, 1);
-        }
-        else {
-            even = even + 1;
-        }
-
-        return dp[i][parity] = (parity == 1 ? odd : even) % MOD;
-    }
-
+    long long MOD = 1e9 + 7;
     int numOfSubarrays(vector<int>& arr) {
         int n = arr.size();
+        vector<long long>prefixSum(n);
 
-        dp.assign(n, vector<long long>(2, -1));
-
-        long long ans = 0;
-
-        for (int i = 0; i < n; i++) {
-            ans = (ans + solve(i, arr, 1)) % MOD;
+        prefixSum[0] = arr[0];
+        for(int i = 1; i < n; i++){
+            prefixSum[i] = prefixSum[i - 1] + arr[i];
         }
 
-        return ans;
+        int evenCount = 1;//as 0 is the even number
+        int oddCount = 0;
+
+        int ans = 0;
+        for(int i = 0; i < n; i++){
+            if(prefixSum[i] % 2 == 1){
+                //odd
+                oddCount++;
+                ans = (ans + evenCount) % MOD;
+            }
+            else{
+                //even
+                evenCount++;
+                ans = (ans + oddCount) % MOD;
+            }
+        }
+        return ans % MOD;
     }
 };
