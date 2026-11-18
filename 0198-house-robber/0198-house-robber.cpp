@@ -1,21 +1,22 @@
 class Solution {
 public:
+    int helper(int i, vector<int>& nums, vector<int>& dp){
+        int n = nums.size();
+        //base cases
+        if(i >= n)return 0;
+
+        if(dp[i] != -1)return dp[i];
+
+        int take = nums[i] + helper(i + 2, nums, dp);
+        int notTake = helper(i + 1, nums, dp);
+
+        return dp[i] = max(take, notTake);
+    }
     int rob(vector<int>& nums) {
-        vector<int>dp(nums.size(), -1);
+        int n = nums.size();
 
-        int prev = nums[0];
-        int prev2 = 0;
-
-        for(int i = 1; i < nums.size(); i++){
-            int pick = nums[i]; if(i > 1) pick += prev2;
-            int notPick = 0 + prev;
-
-            int curr = max(pick, notPick);
-
-            prev2 = prev;
-            prev = curr;
-        }
-
-        return prev;
+        //dp[i] means constrain(max robbery amount) start from i ind
+        vector<int>dp(n, -1);
+        return helper(0, nums, dp);
     }
 };
