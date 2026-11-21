@@ -47,6 +47,7 @@ Thank you for visiting
 | [0860-lemonade-change](https://github.com/parthivu1309/DSA/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/parthivu1309/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/parthivu1309/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/parthivu1309/DSA/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/parthivu1309/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/parthivu1309/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthivu1309/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -129,6 +130,7 @@ Thank you for visiting
 | [0518-coin-change-ii](https://github.com/parthivu1309/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/parthivu1309/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/parthivu1309/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/parthivu1309/DSA/tree/master/0877-stone-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/parthivu1309/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthivu1309/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/parthivu1309/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -266,6 +268,7 @@ Thank you for visiting
 | [0268-missing-number](https://github.com/parthivu1309/DSA/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/parthivu1309/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/parthivu1309/DSA/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/parthivu1309/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/parthivu1309/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/parthivu1309/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/parthivu1309/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -618,6 +621,7 @@ Thank you for visiting
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/parthivu1309/DSA/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/parthivu1309/DSA/tree/master/1927-sum-game) |
 ## Bracket Sequences
 |  |
@@ -678,4 +682,12 @@ Thank you for visiting
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/parthivu1309/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/parthivu1309/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/parthivu1309/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/parthivu1309/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
