@@ -105,6 +105,7 @@ Thank you for visiting
 | [3895-count-digit-appearances](https://github.com/parthivu1309/DSA/tree/master/3895-count-digit-appearances) |
 | [3899-angles-of-a-triangle](https://github.com/parthivu1309/DSA/tree/master/3899-angles-of-a-triangle) |
 | [3923-minimum-generations-to-target-point](https://github.com/parthivu1309/DSA/tree/master/3923-minimum-generations-to-target-point) |
+| [3934-smallest-unique-subarray](https://github.com/parthivu1309/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/parthivu1309/DSA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [3975-filter-occupied-intervals](https://github.com/parthivu1309/DSA/tree/master/3975-filter-occupied-intervals) |
 ## Dynamic Programming
@@ -245,6 +246,7 @@ Thank you for visiting
 | [3843-first-element-with-unique-frequency](https://github.com/parthivu1309/DSA/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/parthivu1309/DSA/tree/master/3866-first-unique-even-element) |
 | [3923-minimum-generations-to-target-point](https://github.com/parthivu1309/DSA/tree/master/3923-minimum-generations-to-target-point) |
+| [3934-smallest-unique-subarray](https://github.com/parthivu1309/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -389,6 +391,7 @@ Thank you for visiting
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/parthivu1309/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/parthivu1309/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/parthivu1309/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3934-smallest-unique-subarray](https://github.com/parthivu1309/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -707,4 +710,16 @@ Thank you for visiting
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/parthivu1309/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/parthivu1309/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/parthivu1309/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/parthivu1309/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
