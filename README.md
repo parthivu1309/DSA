@@ -282,6 +282,7 @@ Thank you for visiting
 | [1922-count-good-numbers](https://github.com/parthivu1309/DSA/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/parthivu1309/DSA/tree/master/1927-sum-game) |
 | [2409-count-days-spent-together](https://github.com/parthivu1309/DSA/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/parthivu1309/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/parthivu1309/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/parthivu1309/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parthivu1309/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -600,6 +601,7 @@ Thank you for visiting
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/parthivu1309/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/parthivu1309/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/parthivu1309/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/parthivu1309/DSA/tree/master/3360-stone-removal-game) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/parthivu1309/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/parthivu1309/DSA/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/parthivu1309/DSA/tree/master/3842-toggle-light-bulbs) |
